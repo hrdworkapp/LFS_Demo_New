@@ -12,6 +12,7 @@ struct LFS_DemoApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            // new code
         }
     }
 }

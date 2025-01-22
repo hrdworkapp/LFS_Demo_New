@@ -14,6 +14,79 @@
 		599478DF2D40F1FD009C2BF7 /* LFS_DemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599478DE2D40F1FD009C2BF7 /* LFS_DemoTests.swift */; };
 		599478E92D40F1FD009C2BF7 /* LFS_DemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599478E82D40F1FD009C2BF7 /* LFS_DemoUITests.swift */; };
 		599478EB2D40F1FD009C2BF7 /* LFS_DemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 599478EA2D40F1FD009C2BF7 /* LFS_DemoUITestsLaunchTests.swift */; };
+		599479432D40F729009C2BF7 /* ImportedSegment.756208390.440992 2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599478FA2D40F729009C2BF7 /* ImportedSegment.756208390.440992 2.mov */; };
+		599479442D40F729009C2BF7 /* ImportedSegment.756208390.440992 3.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599478FB2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3.mov */; };
+		599479452D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 3.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599478FC2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 3.mov */; };
+		599479462D40F729009C2BF7 /* ImportedSegment.756208390.440992 59.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599478FD2D40F729009C2BF7 /* ImportedSegment.756208390.440992 59.mov */; };
+		599479472D40F729009C2BF7 /* ImportedSegment.756208390.440992 58.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599478FE2D40F729009C2BF7 /* ImportedSegment.756208390.440992 58.mov */; };
+		599479482D40F729009C2BF7 /* ImportedSegment.756208390.440992 64.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599478FF2D40F729009C2BF7 /* ImportedSegment.756208390.440992 64.mov */; };
+		599479492D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 2.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479002D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 2.mov */; };
+		5994794A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 6.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479012D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 6.mov */; };
+		5994794B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 4.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479022D40F729009C2BF7 /* ImportedSegment.756208390.440992 4.mov */; };
+		5994794C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 48.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479032D40F729009C2BF7 /* ImportedSegment.756208390.440992 48.mov */; };
+		5994794D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 60.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479042D40F729009C2BF7 /* ImportedSegment.756208390.440992 60.mov */; };
+		5994794E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 61.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479052D40F729009C2BF7 /* ImportedSegment.756208390.440992 61.mov */; };
+		5994794F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 49.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479062D40F729009C2BF7 /* ImportedSegment.756208390.440992 49.mov */; };
+		599479502D40F729009C2BF7 /* ImportedSegment.756208390.440992 5.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479072D40F729009C2BF7 /* ImportedSegment.756208390.440992 5.mov */; };
+		599479512D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 7.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479082D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 7.mov */; };
+		599479522D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 5.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479092D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 5.mov */; };
+		599479532D40F729009C2BF7 /* ImportedSegment.756208390.440992 7.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994790A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 7.mov */; };
+		599479542D40F729009C2BF7 /* ImportedSegment.756208390.440992 63.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994790B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 63.mov */; };
+		599479552D40F729009C2BF7 /* ImportedSegment.756208390.440992 62.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994790C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 62.mov */; };
+		599479562D40F729009C2BF7 /* ImportedSegment.756208390.440992 6.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994790D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 6.mov */; };
+		599479572D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 4.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994790E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 4.mov */; };
+		599479582D40F729009C2BF7 /* ImportedSegment.756208390.440992 11.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994790F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 11.mov */; };
+		599479592D40F729009C2BF7 /* ImportedSegment.756208390.440992 39.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479102D40F729009C2BF7 /* ImportedSegment.756208390.440992 39.mov */; };
+		5994795A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 38.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479112D40F729009C2BF7 /* ImportedSegment.756208390.440992 38.mov */; };
+		5994795B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 10.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479122D40F729009C2BF7 /* ImportedSegment.756208390.440992 10.mov */; };
+		5994795C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479132D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy.mov */; };
+		5994795D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 12.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479142D40F729009C2BF7 /* ImportedSegment.756208390.440992 12.mov */; };
+		5994795E2D40F729009C2BF7 /* ImportedSegment.756208390.440992.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479152D40F729009C2BF7 /* ImportedSegment.756208390.440992.mov */; };
+		5994795F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 13.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479162D40F729009C2BF7 /* ImportedSegment.756208390.440992 13.mov */; };
+		599479602D40F729009C2BF7 /* ImportedSegment.756208390.440992 17.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479172D40F729009C2BF7 /* ImportedSegment.756208390.440992 17.mov */; };
+		599479612D40F729009C2BF7 /* ImportedSegment.756208390.440992 16.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479182D40F729009C2BF7 /* ImportedSegment.756208390.440992 16.mov */; };
+		599479622D40F729009C2BF7 /* ImportedSegment.756208390.440992 28.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479192D40F729009C2BF7 /* ImportedSegment.756208390.440992 28.mov */; };
+		599479632D40F729009C2BF7 /* ImportedSegment.756208390.440992 14.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994791A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 14.mov */; };
+		599479642D40F729009C2BF7 /* ImportedSegment.756208390.440992 15.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994791B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 15.mov */; };
+		599479652D40F729009C2BF7 /* ImportedSegment.756208390.440992 29.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994791C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 29.mov */; };
+		599479662D40F729009C2BF7 /* ImportedSegment.756208390.440992 24.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994791D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 24.mov */; };
+		599479672D40F729009C2BF7 /* ImportedSegment.756208390.440992 30.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994791E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 30.mov */; };
+		599479682D40F729009C2BF7 /* ImportedSegment.756208390.440992 18.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994791F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 18.mov */; };
+		599479692D40F729009C2BF7 /* ImportedSegment.756208390.440992 19.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479202D40F729009C2BF7 /* ImportedSegment.756208390.440992 19.mov */; };
+		5994796A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 31.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479212D40F729009C2BF7 /* ImportedSegment.756208390.440992 31.mov */; };
+		5994796B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 25.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479222D40F729009C2BF7 /* ImportedSegment.756208390.440992 25.mov */; };
+		5994796C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 33.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479232D40F729009C2BF7 /* ImportedSegment.756208390.440992 33.mov */; };
+		5994796D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 27.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479242D40F729009C2BF7 /* ImportedSegment.756208390.440992 27.mov */; };
+		5994796E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 26.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479252D40F729009C2BF7 /* ImportedSegment.756208390.440992 26.mov */; };
+		5994796F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 32.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479262D40F729009C2BF7 /* ImportedSegment.756208390.440992 32.mov */; };
+		599479702D40F729009C2BF7 /* ImportedSegment.756208390.440992 36.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479272D40F729009C2BF7 /* ImportedSegment.756208390.440992 36.mov */; };
+		599479712D40F729009C2BF7 /* ImportedSegment.756208390.440992 22.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479282D40F729009C2BF7 /* ImportedSegment.756208390.440992 22.mov */; };
+		599479722D40F729009C2BF7 /* ImportedSegment.756208390.440992 23.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479292D40F729009C2BF7 /* ImportedSegment.756208390.440992 23.mov */; };
+		599479732D40F729009C2BF7 /* ImportedSegment.756208390.440992 37.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994792A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 37.mov */; };
+		599479742D40F729009C2BF7 /* ImportedSegment.756208390.440992 21.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994792B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 21.mov */; };
+		599479752D40F729009C2BF7 /* ImportedSegment.756208390.440992 35.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994792C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 35.mov */; };
+		599479762D40F729009C2BF7 /* ImportedSegment.756208390.440992 34.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994792D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 34.mov */; };
+		599479772D40F729009C2BF7 /* ImportedSegment.756208390.440992 20.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994792E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 20.mov */; };
+		599479782D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 9.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994792F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 9.mov */; };
+		599479792D40F729009C2BF7 /* ImportedSegment.756208390.440992 47.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479302D40F729009C2BF7 /* ImportedSegment.756208390.440992 47.mov */; };
+		5994797A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 53.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479312D40F729009C2BF7 /* ImportedSegment.756208390.440992 53.mov */; };
+		5994797B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 52.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479322D40F729009C2BF7 /* ImportedSegment.756208390.440992 52.mov */; };
+		5994797C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 46.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479332D40F729009C2BF7 /* ImportedSegment.756208390.440992 46.mov */; };
+		5994797D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 8.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479342D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 8.mov */; };
+		5994797E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 8.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479352D40F729009C2BF7 /* ImportedSegment.756208390.440992 8.mov */; };
+		5994797F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 50.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479362D40F729009C2BF7 /* ImportedSegment.756208390.440992 50.mov */; };
+		599479802D40F729009C2BF7 /* ImportedSegment.756208390.440992 44.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479372D40F729009C2BF7 /* ImportedSegment.756208390.440992 44.mov */; };
+		599479812D40F729009C2BF7 /* ImportedSegment.756208390.440992 45.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479382D40F729009C2BF7 /* ImportedSegment.756208390.440992 45.mov */; };
+		599479822D40F729009C2BF7 /* ImportedSegment.756208390.440992 51.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479392D40F729009C2BF7 /* ImportedSegment.756208390.440992 51.mov */; };
+		599479832D40F729009C2BF7 /* ImportedSegment.756208390.440992 9.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994793A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 9.mov */; };
+		599479842D40F729009C2BF7 /* ImportedSegment.756208390.440992 55.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994793B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 55.mov */; };
+		599479852D40F729009C2BF7 /* ImportedSegment.756208390.440992 41.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994793C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 41.mov */; };
+		599479862D40F729009C2BF7 /* ImportedSegment.756208390.440992 40.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994793D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 40.mov */; };
+		599479872D40F729009C2BF7 /* ImportedSegment.756208390.440992 54.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994793E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 54.mov */; };
+		599479882D40F729009C2BF7 /* ImportedSegment.756208390.440992 42.mov in Resources */ = {isa = PBXBuildFile; fileRef = 5994793F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 42.mov */; };
+		599479892D40F729009C2BF7 /* ImportedSegment.756208390.440992 56.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479402D40F729009C2BF7 /* ImportedSegment.756208390.440992 56.mov */; };
+		5994798A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 57.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479412D40F729009C2BF7 /* ImportedSegment.756208390.440992 57.mov */; };
+		5994798B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 43.mov in Resources */ = {isa = PBXBuildFile; fileRef = 599479422D40F729009C2BF7 /* ImportedSegment.756208390.440992 43.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +117,79 @@
 		599478E42D40F1FD009C2BF7 /* LFS_DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LFS_DemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		599478E82D40F1FD009C2BF7 /* LFS_DemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFS_DemoUITests.swift; sourceTree = "<group>"; };
 		599478EA2D40F1FD009C2BF7 /* LFS_DemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LFS_DemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		599478FA2D40F729009C2BF7 /* ImportedSegment.756208390.440992 2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 2.mov"; sourceTree = "<group>"; };
+		599478FB2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3.mov"; sourceTree = "<group>"; };
+		599478FC2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 3.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy 3.mov"; sourceTree = "<group>"; };
+		599478FD2D40F729009C2BF7 /* ImportedSegment.756208390.440992 59.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 59.mov"; sourceTree = "<group>"; };
+		599478FE2D40F729009C2BF7 /* ImportedSegment.756208390.440992 58.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 58.mov"; sourceTree = "<group>"; };
+		599478FF2D40F729009C2BF7 /* ImportedSegment.756208390.440992 64.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 64.mov"; sourceTree = "<group>"; };
+		599479002D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 2.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy 2.mov"; sourceTree = "<group>"; };
+		599479012D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 6.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy 6.mov"; sourceTree = "<group>"; };
+		599479022D40F729009C2BF7 /* ImportedSegment.756208390.440992 4.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 4.mov"; sourceTree = "<group>"; };
+		599479032D40F729009C2BF7 /* ImportedSegment.756208390.440992 48.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 48.mov"; sourceTree = "<group>"; };
+		599479042D40F729009C2BF7 /* ImportedSegment.756208390.440992 60.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 60.mov"; sourceTree = "<group>"; };
+		599479052D40F729009C2BF7 /* ImportedSegment.756208390.440992 61.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 61.mov"; sourceTree = "<group>"; };
+		599479062D40F729009C2BF7 /* ImportedSegment.756208390.440992 49.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 49.mov"; sourceTree = "<group>"; };
+		599479072D40F729009C2BF7 /* ImportedSegment.756208390.440992 5.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 5.mov"; sourceTree = "<group>"; };
+		599479082D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 7.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy 7.mov"; sourceTree = "<group>"; };
+		599479092D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 5.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy 5.mov"; sourceTree = "<group>"; };
+		5994790A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 7.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 7.mov"; sourceTree = "<group>"; };
+		5994790B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 63.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 63.mov"; sourceTree = "<group>"; };
+		5994790C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 62.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 62.mov"; sourceTree = "<group>"; };
+		5994790D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 6.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 6.mov"; sourceTree = "<group>"; };
+		5994790E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 4.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy 4.mov"; sourceTree = "<group>"; };
+		5994790F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 11.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 11.mov"; sourceTree = "<group>"; };
+		599479102D40F729009C2BF7 /* ImportedSegment.756208390.440992 39.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 39.mov"; sourceTree = "<group>"; };
+		599479112D40F729009C2BF7 /* ImportedSegment.756208390.440992 38.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 38.mov"; sourceTree = "<group>"; };
+		599479122D40F729009C2BF7 /* ImportedSegment.756208390.440992 10.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 10.mov"; sourceTree = "<group>"; };
+		599479132D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy.mov"; sourceTree = "<group>"; };
+		599479142D40F729009C2BF7 /* ImportedSegment.756208390.440992 12.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 12.mov"; sourceTree = "<group>"; };
+		599479152D40F729009C2BF7 /* ImportedSegment.756208390.440992.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = ImportedSegment.756208390.440992.mov; sourceTree = "<group>"; };
+		599479162D40F729009C2BF7 /* ImportedSegment.756208390.440992 13.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 13.mov"; sourceTree = "<group>"; };
+		599479172D40F729009C2BF7 /* ImportedSegment.756208390.440992 17.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 17.mov"; sourceTree = "<group>"; };
+		599479182D40F729009C2BF7 /* ImportedSegment.756208390.440992 16.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 16.mov"; sourceTree = "<group>"; };
+		599479192D40F729009C2BF7 /* ImportedSegment.756208390.440992 28.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 28.mov"; sourceTree = "<group>"; };
+		5994791A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 14.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 14.mov"; sourceTree = "<group>"; };
+		5994791B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 15.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 15.mov"; sourceTree = "<group>"; };
+		5994791C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 29.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 29.mov"; sourceTree = "<group>"; };
+		5994791D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 24.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 24.mov"; sourceTree = "<group>"; };
+		5994791E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 30.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 30.mov"; sourceTree = "<group>"; };
+		5994791F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 18.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 18.mov"; sourceTree = "<group>"; };
+		599479202D40F729009C2BF7 /* ImportedSegment.756208390.440992 19.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 19.mov"; sourceTree = "<group>"; };
+		599479212D40F729009C2BF7 /* ImportedSegment.756208390.440992 31.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 31.mov"; sourceTree = "<group>"; };
+		599479222D40F729009C2BF7 /* ImportedSegment.756208390.440992 25.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 25.mov"; sourceTree = "<group>"; };
+		599479232D40F729009C2BF7 /* ImportedSegment.756208390.440992 33.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 33.mov"; sourceTree = "<group>"; };
+		599479242D40F729009C2BF7 /* ImportedSegment.756208390.440992 27.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 27.mov"; sourceTree = "<group>"; };
+		599479252D40F729009C2BF7 /* ImportedSegment.756208390.440992 26.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 26.mov"; sourceTree = "<group>"; };
+		599479262D40F729009C2BF7 /* ImportedSegment.756208390.440992 32.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 32.mov"; sourceTree = "<group>"; };
+		599479272D40F729009C2BF7 /* ImportedSegment.756208390.440992 36.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 36.mov"; sourceTree = "<group>"; };
+		599479282D40F729009C2BF7 /* ImportedSegment.756208390.440992 22.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 22.mov"; sourceTree = "<group>"; };
+		599479292D40F729009C2BF7 /* ImportedSegment.756208390.440992 23.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 23.mov"; sourceTree = "<group>"; };
+		5994792A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 37.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 37.mov"; sourceTree = "<group>"; };
+		5994792B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 21.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 21.mov"; sourceTree = "<group>"; };
+		5994792C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 35.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 35.mov"; sourceTree = "<group>"; };
+		5994792D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 34.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 34.mov"; sourceTree = "<group>"; };
+		5994792E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 20.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 20.mov"; sourceTree = "<group>"; };
+		5994792F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 9.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy 9.mov"; sourceTree = "<group>"; };
+		599479302D40F729009C2BF7 /* ImportedSegment.756208390.440992 47.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 47.mov"; sourceTree = "<group>"; };
+		599479312D40F729009C2BF7 /* ImportedSegment.756208390.440992 53.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 53.mov"; sourceTree = "<group>"; };
+		599479322D40F729009C2BF7 /* ImportedSegment.756208390.440992 52.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 52.mov"; sourceTree = "<group>"; };
+		599479332D40F729009C2BF7 /* ImportedSegment.756208390.440992 46.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 46.mov"; sourceTree = "<group>"; };
+		599479342D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 8.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 3 copy 8.mov"; sourceTree = "<group>"; };
+		599479352D40F729009C2BF7 /* ImportedSegment.756208390.440992 8.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 8.mov"; sourceTree = "<group>"; };
+		599479362D40F729009C2BF7 /* ImportedSegment.756208390.440992 50.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 50.mov"; sourceTree = "<group>"; };
+		599479372D40F729009C2BF7 /* ImportedSegment.756208390.440992 44.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 44.mov"; sourceTree = "<group>"; };
+		599479382D40F729009C2BF7 /* ImportedSegment.756208390.440992 45.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 45.mov"; sourceTree = "<group>"; };
+		599479392D40F729009C2BF7 /* ImportedSegment.756208390.440992 51.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 51.mov"; sourceTree = "<group>"; };
+		5994793A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 9.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 9.mov"; sourceTree = "<group>"; };
+		5994793B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 55.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 55.mov"; sourceTree = "<group>"; };
+		5994793C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 41.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 41.mov"; sourceTree = "<group>"; };
+		5994793D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 40.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 40.mov"; sourceTree = "<group>"; };
+		5994793E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 54.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 54.mov"; sourceTree = "<group>"; };
+		5994793F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 42.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 42.mov"; sourceTree = "<group>"; };
+		599479402D40F729009C2BF7 /* ImportedSegment.756208390.440992 56.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 56.mov"; sourceTree = "<group>"; };
+		599479412D40F729009C2BF7 /* ImportedSegment.756208390.440992 57.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 57.mov"; sourceTree = "<group>"; };
+		599479422D40F729009C2BF7 /* ImportedSegment.756208390.440992 43.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = "ImportedSegment.756208390.440992 43.mov"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +240,7 @@
 		599478CC2D40F1FC009C2BF7 /* LFS_Demo */ = {
 			isa = PBXGroup;
 			children = (
+				599478F92D40F729009C2BF7 /* Resources */,
 				599478CD2D40F1FC009C2BF7 /* LFS_DemoApp.swift */,
 				599478CF2D40F1FC009C2BF7 /* ContentView.swift */,
 				599478D12D40F1FD009C2BF7 /* Assets.xcassets */,
@@ -125,6 +272,86 @@
 				599478EA2D40F1FD009C2BF7 /* LFS_DemoUITestsLaunchTests.swift */,
 			);
 			path = LFS_DemoUITests;
+			sourceTree = "<group>";
+		};
+		599478F92D40F729009C2BF7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				599478FA2D40F729009C2BF7 /* ImportedSegment.756208390.440992 2.mov */,
+				599478FB2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3.mov */,
+				599478FC2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 3.mov */,
+				599478FD2D40F729009C2BF7 /* ImportedSegment.756208390.440992 59.mov */,
+				599478FE2D40F729009C2BF7 /* ImportedSegment.756208390.440992 58.mov */,
+				599478FF2D40F729009C2BF7 /* ImportedSegment.756208390.440992 64.mov */,
+				599479002D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 2.mov */,
+				599479012D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 6.mov */,
+				599479022D40F729009C2BF7 /* ImportedSegment.756208390.440992 4.mov */,
+				599479032D40F729009C2BF7 /* ImportedSegment.756208390.440992 48.mov */,
+				599479042D40F729009C2BF7 /* ImportedSegment.756208390.440992 60.mov */,
+				599479052D40F729009C2BF7 /* ImportedSegment.756208390.440992 61.mov */,
+				599479062D40F729009C2BF7 /* ImportedSegment.756208390.440992 49.mov */,
+				599479072D40F729009C2BF7 /* ImportedSegment.756208390.440992 5.mov */,
+				599479082D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 7.mov */,
+				599479092D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 5.mov */,
+				5994790A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 7.mov */,
+				5994790B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 63.mov */,
+				5994790C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 62.mov */,
+				5994790D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 6.mov */,
+				5994790E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 4.mov */,
+				5994790F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 11.mov */,
+				599479102D40F729009C2BF7 /* ImportedSegment.756208390.440992 39.mov */,
+				599479112D40F729009C2BF7 /* ImportedSegment.756208390.440992 38.mov */,
+				599479122D40F729009C2BF7 /* ImportedSegment.756208390.440992 10.mov */,
+				599479132D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy.mov */,
+				599479142D40F729009C2BF7 /* ImportedSegment.756208390.440992 12.mov */,
+				599479152D40F729009C2BF7 /* ImportedSegment.756208390.440992.mov */,
+				599479162D40F729009C2BF7 /* ImportedSegment.756208390.440992 13.mov */,
+				599479172D40F729009C2BF7 /* ImportedSegment.756208390.440992 17.mov */,
+				599479182D40F729009C2BF7 /* ImportedSegment.756208390.440992 16.mov */,
+				599479192D40F729009C2BF7 /* ImportedSegment.756208390.440992 28.mov */,
+				5994791A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 14.mov */,
+				5994791B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 15.mov */,
+				5994791C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 29.mov */,
+				5994791D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 24.mov */,
+				5994791E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 30.mov */,
+				5994791F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 18.mov */,
+				599479202D40F729009C2BF7 /* ImportedSegment.756208390.440992 19.mov */,
+				599479212D40F729009C2BF7 /* ImportedSegment.756208390.440992 31.mov */,
+				599479222D40F729009C2BF7 /* ImportedSegment.756208390.440992 25.mov */,
+				599479232D40F729009C2BF7 /* ImportedSegment.756208390.440992 33.mov */,
+				599479242D40F729009C2BF7 /* ImportedSegment.756208390.440992 27.mov */,
+				599479252D40F729009C2BF7 /* ImportedSegment.756208390.440992 26.mov */,
+				599479262D40F729009C2BF7 /* ImportedSegment.756208390.440992 32.mov */,
+				599479272D40F729009C2BF7 /* ImportedSegment.756208390.440992 36.mov */,
+				599479282D40F729009C2BF7 /* ImportedSegment.756208390.440992 22.mov */,
+				599479292D40F729009C2BF7 /* ImportedSegment.756208390.440992 23.mov */,
+				5994792A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 37.mov */,
+				5994792B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 21.mov */,
+				5994792C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 35.mov */,
+				5994792D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 34.mov */,
+				5994792E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 20.mov */,
+				5994792F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 9.mov */,
+				599479302D40F729009C2BF7 /* ImportedSegment.756208390.440992 47.mov */,
+				599479312D40F729009C2BF7 /* ImportedSegment.756208390.440992 53.mov */,
+				599479322D40F729009C2BF7 /* ImportedSegment.756208390.440992 52.mov */,
+				599479332D40F729009C2BF7 /* ImportedSegment.756208390.440992 46.mov */,
+				599479342D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 8.mov */,
+				599479352D40F729009C2BF7 /* ImportedSegment.756208390.440992 8.mov */,
+				599479362D40F729009C2BF7 /* ImportedSegment.756208390.440992 50.mov */,
+				599479372D40F729009C2BF7 /* ImportedSegment.756208390.440992 44.mov */,
+				599479382D40F729009C2BF7 /* ImportedSegment.756208390.440992 45.mov */,
+				599479392D40F729009C2BF7 /* ImportedSegment.756208390.440992 51.mov */,
+				5994793A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 9.mov */,
+				5994793B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 55.mov */,
+				5994793C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 41.mov */,
+				5994793D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 40.mov */,
+				5994793E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 54.mov */,
+				5994793F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 42.mov */,
+				599479402D40F729009C2BF7 /* ImportedSegment.756208390.440992 56.mov */,
+				599479412D40F729009C2BF7 /* ImportedSegment.756208390.440992 57.mov */,
+				599479422D40F729009C2BF7 /* ImportedSegment.756208390.440992 43.mov */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +458,81 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5994796C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 33.mov in Resources */,
+				599479622D40F729009C2BF7 /* ImportedSegment.756208390.440992 28.mov in Resources */,
+				5994798A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 57.mov in Resources */,
+				599479792D40F729009C2BF7 /* ImportedSegment.756208390.440992 47.mov in Resources */,
+				599479482D40F729009C2BF7 /* ImportedSegment.756208390.440992 64.mov in Resources */,
+				599479842D40F729009C2BF7 /* ImportedSegment.756208390.440992 55.mov in Resources */,
+				5994796A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 31.mov in Resources */,
+				5994794E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 61.mov in Resources */,
+				599479502D40F729009C2BF7 /* ImportedSegment.756208390.440992 5.mov in Resources */,
+				599479752D40F729009C2BF7 /* ImportedSegment.756208390.440992 35.mov in Resources */,
+				599479692D40F729009C2BF7 /* ImportedSegment.756208390.440992 19.mov in Resources */,
+				5994794B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 4.mov in Resources */,
+				5994794C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 48.mov in Resources */,
+				599479862D40F729009C2BF7 /* ImportedSegment.756208390.440992 40.mov in Resources */,
+				599479442D40F729009C2BF7 /* ImportedSegment.756208390.440992 3.mov in Resources */,
+				599479762D40F729009C2BF7 /* ImportedSegment.756208390.440992 34.mov in Resources */,
+				5994794A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 6.mov in Resources */,
+				599479832D40F729009C2BF7 /* ImportedSegment.756208390.440992 9.mov in Resources */,
+				599479522D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 5.mov in Resources */,
+				5994797E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 8.mov in Resources */,
+				599479632D40F729009C2BF7 /* ImportedSegment.756208390.440992 14.mov in Resources */,
+				599479882D40F729009C2BF7 /* ImportedSegment.756208390.440992 42.mov in Resources */,
+				599479582D40F729009C2BF7 /* ImportedSegment.756208390.440992 11.mov in Resources */,
+				5994796D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 27.mov in Resources */,
+				5994795F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 13.mov in Resources */,
+				599479652D40F729009C2BF7 /* ImportedSegment.756208390.440992 29.mov in Resources */,
+				599479532D40F729009C2BF7 /* ImportedSegment.756208390.440992 7.mov in Resources */,
 				599478D52D40F1FD009C2BF7 /* Preview Assets.xcassets in Resources */,
+				599479682D40F729009C2BF7 /* ImportedSegment.756208390.440992 18.mov in Resources */,
+				5994795A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 38.mov in Resources */,
+				5994796B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 25.mov in Resources */,
+				599479462D40F729009C2BF7 /* ImportedSegment.756208390.440992 59.mov in Resources */,
+				5994797B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 52.mov in Resources */,
+				599479892D40F729009C2BF7 /* ImportedSegment.756208390.440992 56.mov in Resources */,
+				599479702D40F729009C2BF7 /* ImportedSegment.756208390.440992 36.mov in Resources */,
+				5994797D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 8.mov in Resources */,
+				599479512D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 7.mov in Resources */,
+				5994794F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 49.mov in Resources */,
+				599479432D40F729009C2BF7 /* ImportedSegment.756208390.440992 2.mov in Resources */,
+				599479552D40F729009C2BF7 /* ImportedSegment.756208390.440992 62.mov in Resources */,
+				599479642D40F729009C2BF7 /* ImportedSegment.756208390.440992 15.mov in Resources */,
+				5994796F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 32.mov in Resources */,
+				599479662D40F729009C2BF7 /* ImportedSegment.756208390.440992 24.mov in Resources */,
+				599479452D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 3.mov in Resources */,
+				599479542D40F729009C2BF7 /* ImportedSegment.756208390.440992 63.mov in Resources */,
+				599479562D40F729009C2BF7 /* ImportedSegment.756208390.440992 6.mov in Resources */,
+				599479712D40F729009C2BF7 /* ImportedSegment.756208390.440992 22.mov in Resources */,
 				599478D22D40F1FD009C2BF7 /* Assets.xcassets in Resources */,
+				599479812D40F729009C2BF7 /* ImportedSegment.756208390.440992 45.mov in Resources */,
+				599479602D40F729009C2BF7 /* ImportedSegment.756208390.440992 17.mov in Resources */,
+				5994797A2D40F729009C2BF7 /* ImportedSegment.756208390.440992 53.mov in Resources */,
+				599479612D40F729009C2BF7 /* ImportedSegment.756208390.440992 16.mov in Resources */,
+				5994795E2D40F729009C2BF7 /* ImportedSegment.756208390.440992.mov in Resources */,
+				599479772D40F729009C2BF7 /* ImportedSegment.756208390.440992 20.mov in Resources */,
+				599479592D40F729009C2BF7 /* ImportedSegment.756208390.440992 39.mov in Resources */,
+				599479782D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 9.mov in Resources */,
+				5994795D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 12.mov in Resources */,
+				599479852D40F729009C2BF7 /* ImportedSegment.756208390.440992 41.mov in Resources */,
+				599479732D40F729009C2BF7 /* ImportedSegment.756208390.440992 37.mov in Resources */,
+				599479572D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 4.mov in Resources */,
+				5994795B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 10.mov in Resources */,
+				599479872D40F729009C2BF7 /* ImportedSegment.756208390.440992 54.mov in Resources */,
+				599479722D40F729009C2BF7 /* ImportedSegment.756208390.440992 23.mov in Resources */,
+				599479802D40F729009C2BF7 /* ImportedSegment.756208390.440992 44.mov in Resources */,
+				599479822D40F729009C2BF7 /* ImportedSegment.756208390.440992 51.mov in Resources */,
+				5994795C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy.mov in Resources */,
+				599479672D40F729009C2BF7 /* ImportedSegment.756208390.440992 30.mov in Resources */,
+				5994797F2D40F729009C2BF7 /* ImportedSegment.756208390.440992 50.mov in Resources */,
+				5994796E2D40F729009C2BF7 /* ImportedSegment.756208390.440992 26.mov in Resources */,
+				5994794D2D40F729009C2BF7 /* ImportedSegment.756208390.440992 60.mov in Resources */,
+				5994797C2D40F729009C2BF7 /* ImportedSegment.756208390.440992 46.mov in Resources */,
+				599479742D40F729009C2BF7 /* ImportedSegment.756208390.440992 21.mov in Resources */,
+				599479492D40F729009C2BF7 /* ImportedSegment.756208390.440992 3 copy 2.mov in Resources */,
+				599479472D40F729009C2BF7 /* ImportedSegment.756208390.440992 58.mov in Resources */,
+				5994798B2D40F729009C2BF7 /* ImportedSegment.756208390.440992 43.mov in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
